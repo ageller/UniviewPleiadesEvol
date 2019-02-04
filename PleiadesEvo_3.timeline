@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<clip version="2.6">
+	<object name="orbitcamera">
+		<gui name="Camera"></gui>
+		<property name="Rotation" type="rotation" hidden="0" constant="0">
+			<block start="0" size="91">
+				<keyframe frame="0" interpolation="linear">0.897357 0.189230 0.110140 -0.383160</keyframe>
+				<keyframe frame="90" interpolation="linear">-0.907349 -0.082620 -0.042181 0.410016</keyframe>
+			</block>
+			<block start="91" size="57">
+				<keyframe frame="91" interpolation="linear">0.785044 0.379267 0.239569 -0.427164</keyframe>
+				<keyframe frame="147" interpolation="smooth">0.786878 0.382568 0.233475 -0.424210</keyframe>
+			</block>
+			<block start="148" size="8853">
+				<keyframe frame="148" interpolation="monotone">0.786878 0.382568 0.233475 -0.424210</keyframe>
+				<keyframe frame="450" interpolation="smooth">0.584193 -0.673131 -0.118924 0.437573</keyframe>
+				<keyframe frame="510" interpolation="smooth">0.584193 -0.673131 -0.118924 0.437573</keyframe>
+				<keyframe frame="2400" interpolation="smooth">0.304331 0.087048 -0.544997 0.776392</keyframe>
+				<keyframe frame="2550" interpolation="smooth">0.099165 0.106764 -0.223558 0.963737</keyframe>
+				<keyframe frame="3180" interpolation="smooth">-0.703539 0.079303 0.677904 0.197965</keyframe>
+				<keyframe frame="3240" interpolation="smooth">-0.703539 0.079303 0.677904 0.197965</keyframe>
+				<keyframe frame="3840" interpolation="smooth">0.442764 -0.855922 -0.216995 -0.155790</keyframe>
+				<keyframe frame="3930" interpolation="smooth">-0.275764 0.386354 0.624907 0.619819</keyframe>
+				<keyframe frame="4613" interpolation="smooth">-0.263469 0.397458 0.628511 0.614479</keyframe>
+				<keyframe frame="5730" interpolation="smooth">-0.262099 0.379335 0.713314 0.527818</keyframe>
+				<keyframe frame="5880" interpolation="smooth">-0.021454 0.928419 0.051940 -0.367261</keyframe>
+				<keyframe frame="5910" interpolation="smooth">-0.021454 0.928419 0.051940 -0.367261</keyframe>
+				<keyframe frame="7710" interpolation="smooth">-0.021454 0.928419 0.051940 -0.367261</keyframe>
+				<keyframe frame="7760" interpolation="smooth">-0.311820 0.671370 0.648813 -0.176274</keyframe>
+				<keyframe frame="7890" interpolation="smooth">-0.575617 0.678918 0.376226 0.257273</keyframe>
+				<keyframe frame="7980" interpolation="smooth">-0.592108 0.711211 0.288075 0.246171</keyframe>
+				<keyframe frame="9000" interpolation="smooth">-0.499797 0.494469 0.668572 -0.242311</keyframe>
+			</block>
+		</property>
+		<property name="Offset" type="offset" hidden="0" constant="0">
+			<block start="0" size="91">
+				<keyframe frame="0" interpolation="linear">0.078350 0.062056 -0.237664 0.966192</keyframe>
+				<keyframe frame="90" interpolation="linear">0.061251 0.064856 -0.373460 0.923347</keyframe>
+			</block>
+			<block start="91" size="57">
+				<keyframe frame="91" interpolation="monotone">0.000335 0.000005 -0.015076 0.999886</keyframe>
+				<keyframe frame="147" interpolation="smooth">-0.000000 0.000000 0.000000 1.000000</keyframe>
+			</block>
+			<block start="148" size="8853">
+				<keyframe frame="148" interpolation="monotone">0.000000 0.000000 0.000000 1.000000</keyframe>
+				<keyframe frame="450" interpolation="smooth">0.000000 0.000000 0.000000 1.000000</keyframe>
+				<keyframe frame="510" interpolation="smooth">0.000000 0.000000 0.000000 1.000000</keyframe>
+				<keyframe frame="2400" interpolation="smooth">0.000000 0.000000 0.000000 1.000000</keyframe>
+				<keyframe frame="2550" interpolation="smooth">0.000000 0.000000 0.000000 1.000000</keyframe>
+				<keyframe frame="3180" interpolation="smooth">0.000000 0.000000 0.000000 1.000000</keyframe>
+				<keyframe frame="3240" interpolation="smooth">0.000000 0.000000 0.000000 1.000000</keyframe>
+				<keyframe frame="3840" interpolation="smooth">0.000000 0.000000 0.000000 1.000000</keyframe>
+				<keyframe frame="3930" interpolation="smooth">0.000000 0.000000 0.000000 1.000000</keyframe>
+				<keyframe frame="4613" interpolation="smooth">0.000000 0.000000 0.000000 1.000000</keyframe>
+				<keyframe frame="5730" interpolation="smooth">0.000000 0.000000 0.000000 1.000000</keyframe>
+				<keyframe frame="5880" interpolation="smooth">0.000000 0.000000 0.000000 1.000000</keyframe>
+				<keyframe frame="5910" interpolation="smooth">0.000000 0.000000 0.000000 1.000000</keyframe>
+				<keyframe frame="7710" interpolation="smooth">0.000000 0.000000 0.000000 1.000000</keyframe>
+				<keyframe frame="7760" interpolation="smooth">-0.023959 -0.018973 0.092680 0.995227</keyframe>
+				<keyframe frame="7890" interpolation="smooth">-0.389625 0.005241 0.582960 0.712967</keyframe>
+				<keyframe frame="7980" interpolation="smooth">0.000000 0.000000 0.000000 1.000000</keyframe>
+				<keyframe frame="9000" interpolation="smooth">0.000000 0.000000 0.000000 1.000000</keyframe>
+			</block>
+		</property>
+		<property name="Distance" type="distance" hidden="0" constant="0">
+			<block start="0" size="91">
+				<keyframe frame="0" interpolation="monotone">30458.022461 km</keyframe>
+				<keyframe frame="90" interpolation="monotone">1613321.304321 km</keyframe>
+			</block>
+			<block start="91" size="57">
+				<keyframe frame="91" interpolation="monotone">25783070.794826 AU</keyframe>
+				<keyframe frame="147" interpolation="smooth">46.181512 LY</keyframe>
+			</block>
+			<block start="148" size="8853">
+				<keyframe frame="148" interpolation="monotone">46.181487 LY</keyframe>
+				<keyframe frame="450" interpolation="smooth">46.182240 LY</keyframe>
+				<keyframe frame="510" interpolation="smooth">46.182240 LY</keyframe>
+				<keyframe frame="2400" interpolation="smooth">46.182240 LY</keyframe>
+				<keyframe frame="2550" interpolation="smooth">97663.620013 LY</keyframe>
+				<keyframe frame="3180" interpolation="smooth">181539.177190 LY</keyframe>
+				<keyframe frame="3240" interpolation="smooth">3274.708401 LY</keyframe>
+				<keyframe frame="3840" interpolation="smooth">4179.346057 LY</keyframe>
+				<keyframe frame="3930" interpolation="smooth">49.085681 LY</keyframe>
+				<keyframe frame="4613" interpolation="smooth">48.236245 LY</keyframe>
+				<keyframe frame="5730" interpolation="smooth">69.697120 LY</keyframe>
+				<keyframe frame="5880" interpolation="smooth">875999986188288.000000 km</keyframe>
+				<keyframe frame="5910" interpolation="smooth">875999986188288.000000 km</keyframe>
+				<keyframe frame="7710" interpolation="smooth">875999986188288.000000 km</keyframe>
+				<keyframe frame="7760" interpolation="smooth">16.501057 LY</keyframe>
+				<keyframe frame="7890" interpolation="smooth">5.385536 LY</keyframe>
+				<keyframe frame="7980" interpolation="smooth">62.581943 LY</keyframe>
+				<keyframe frame="9000" interpolation="smooth">11.521109 LY</keyframe>
+			</block>
+		</property>
+		<property name="Target" type="target" hidden="1" constant="1">
+			<block start="0" size="91">
+				<keyframe frame="0" interpolation="smooth">Earth</keyframe>
+			</block>
+			<block start="91" size="57">
+				<keyframe frame="91" interpolation="smooth">pleiadesEvo</keyframe>
+			</block>
+			<block start="148" size="8853">
+				<keyframe frame="148" interpolation="smooth">pleiadesEvo</keyframe>
+			</block>
+		</property>
+		<property name="Lock" type="string" hidden="1" constant="1">
+			<block start="0" size="91">
+				<keyframe frame="0" interpolation="smooth"></keyframe>
+			</block>
+			<block start="91" size="57">
+				<keyframe frame="91" interpolation="smooth"></keyframe>
+			</block>
+			<block start="148" size="8853">
+				<keyframe frame="148" interpolation="smooth"></keyframe>
+			</block>
+		</property>
+		<property name="Time" type="time" hidden="0" constant="0">
+			<block start="0" size="91">
+				<keyframe frame="0" interpolation="linear">100 1 1 0 0 57.000000</keyframe>
+				<keyframe frame="90" interpolation="linear">100 1 1 0 0 46.999619</keyframe>
+			</block>
+			<block start="91" size="57">
+				<keyframe frame="91" interpolation="linear">100 1 1 0 0 46.999619</keyframe>
+				<keyframe frame="147" interpolation="smooth">100 1 1 0 0 7.998146</keyframe>
+			</block>
+			<block start="148" size="8853">
+				<keyframe frame="148" interpolation="linear">100 1 1 0 0 7.998146</keyframe>
+				<keyframe frame="450" interpolation="smooth">100 1 1 0 0 7.998146</keyframe>
+				<keyframe frame="510" interpolation="smooth">0 1 1 0 0 7.998146</keyframe>
+				<keyframe frame="540" interpolation="smooth">0 1 1 0 0 7.998146</keyframe>
+				<keyframe frame="2400" interpolation="smooth">100 1 1 0 0 7.998146</keyframe>
+				<keyframe frame="2550" interpolation="smooth">0 1 1 0 0 7.998146</keyframe>
+				<keyframe frame="3180" interpolation="smooth">100 1 1 0 0 7.998146</keyframe>
+				<keyframe frame="3240" interpolation="smooth">0 1 1 0 0 7.998146</keyframe>
+				<keyframe frame="3840" interpolation="smooth">100 1 1 0 0 7.998146</keyframe>
+				<keyframe frame="3930" interpolation="smooth">34 1 1 0 0 0.000000</keyframe>
+				<keyframe frame="4613" interpolation="smooth">49 2 3 15 7 0.638710</keyframe>
+				<keyframe frame="5730" interpolation="smooth">73 10 11 3 51 6.301102</keyframe>
+				<keyframe frame="5880" interpolation="smooth">73 10 11 3 51 6.301102</keyframe>
+				<keyframe frame="5910" interpolation="smooth">0 1 1 12 0 6.301102</keyframe>
+				<keyframe frame="7710" interpolation="smooth">50 1 1 12 0 6.301102</keyframe>
+				<keyframe frame="7760" interpolation="smooth">50 1 1 12 0 6.301102</keyframe>
+				<keyframe frame="7890" interpolation="smooth">50 1 1 12 0 6.301102</keyframe>
+				<keyframe frame="7980" interpolation="smooth">50 1 1 12 0 6.301102</keyframe>
+				<keyframe frame="9000" interpolation="smooth">100 1 1 12 0 6.301102</keyframe>
+			</block>
+		</property>
+		<property name="AnnualTime" type="bool" hidden="1" constant="1">
+			<block start="0" size="91">
+				<keyframe frame="0" interpolation="smooth">0</keyframe>
+			</block>
+			<block start="91" size="57">
+				<keyframe frame="91" interpolation="smooth">0</keyframe>
+			</block>
+			<block start="148" size="8853">
+				<keyframe frame="148" interpolation="smooth">0</keyframe>
+			</block>
+		</property>
+		<property name="AnnualTimeMark" type="time" hidden="1" constant="1">
+			<block start="0" size="91">
+				<keyframe frame="0" interpolation="smooth">1969 12 31 23 59 59.816064</keyframe>
+			</block>
+			<block start="91" size="57">
+				<keyframe frame="91" interpolation="smooth">1969 12 31 23 59 59.816064</keyframe>
+			</block>
+			<block start="148" size="8853">
+				<keyframe frame="148" interpolation="smooth">1969 12 31 23 59 59.816064</keyframe>
+			</block>
+		</property>
+	</object>
+	<object name="Commands">
+		<property name="ToProducer" type="string" hidden="0" constant="0">
+			<block start="0" size="1">
+				<keyframe frame="0" interpolation="smooth"></keyframe>
+			</block>
+		</property>
+		<property name="ToTheater" type="string" hidden="0" constant="0">
+			<block start="0" size="1">
+				<keyframe frame="0" interpolation="smooth"></keyframe>
+			</block>
+		</property>
+	</object>
+	<object name="pleiadesEvo">
+		<property name="trailLength" type="float" hidden="0" constant="0">
+			<block start="0" size="9001">
+				<keyframe frame="0" interpolation="step">-1.000000</keyframe>
+				<keyframe frame="2550" interpolation="step">100.000000</keyframe>
+				<keyframe frame="3240" interpolation="smooth">20.000000</keyframe>
+				<keyframe frame="5730" interpolation="smooth">20.000000</keyframe>
+				<keyframe frame="5880" interpolation="smooth">0.000000</keyframe>
+				<keyframe frame="7980" interpolation="smooth">0.000000</keyframe>
+				<keyframe frame="9000" interpolation="smooth">100.000000</keyframe>
+			</block>
+		</property>
+		<property name="showWD" type="float" hidden="0" constant="0">
+			<block start="0" size="7771">
+				<keyframe frame="0" interpolation="step">1.000000</keyframe>
+				<keyframe frame="3930" interpolation="step">0.000000</keyframe>
+				<keyframe frame="5910" interpolation="smooth">1.000000</keyframe>
+			</block>
+		</property>
+		<property name="showNS" type="float" hidden="0" constant="0">
+			<block start="0" size="7771">
+				<keyframe frame="0" interpolation="smooth">1.000000</keyframe>
+				<keyframe frame="3930" interpolation="step">0.000000</keyframe>
+				<keyframe frame="5910" interpolation="smooth">1.000000</keyframe>
+			</block>
+		</property>
+		<property name="showHRd" type="float" hidden="0" constant="0">
+			<block start="0" size="7981">
+				<keyframe frame="0" interpolation="smooth">0.000000</keyframe>
+				<keyframe frame="5730" interpolation="smooth">0.000000</keyframe>
+				<keyframe frame="5825" interpolation="smooth">1.000000</keyframe>
+				<keyframe frame="5880" interpolation="smooth">1.000000</keyframe>
+				<keyframe frame="7890" interpolation="smooth">1.000000</keyframe>
+				<keyframe frame="7980" interpolation="smooth">0.000000</keyframe>
+			</block>
+		</property>
+		<property name="showECS" type="float" hidden="0" constant="0">
+			<block start="0" size="7771">
+				<keyframe frame="0" interpolation="smooth">0.000000</keyframe>
+			</block>
+		</property>
+		<property name="showBSS" type="float" hidden="0" constant="0">
+			<block start="0" size="7771">
+				<keyframe frame="0" interpolation="smooth">0.000000</keyframe>
+			</block>
+		</property>
+		<property name="showBH" type="float" hidden="0" constant="0">
+			<block start="0" size="7771">
+				<keyframe frame="0" interpolation="smooth">1.000000</keyframe>
+				<keyframe frame="3930" interpolation="step">0.000000</keyframe>
+				<keyframe frame="5910" interpolation="smooth">1.000000</keyframe>
+			</block>
+		</property>
+		<property name="NSrad" type="float" hidden="0" constant="0">
+			<block start="0" size="7771">
+				<keyframe frame="0" interpolation="step">0.400000</keyframe>
+				<keyframe frame="2550" interpolation="smooth">500.000000</keyframe>
+				<keyframe frame="3180" interpolation="smooth">500.000000</keyframe>
+				<keyframe frame="3240" interpolation="smooth">15.000000</keyframe>
+				<keyframe frame="3840" interpolation="smooth">15.000000</keyframe>
+				<keyframe frame="3860" interpolation="linear">0.400000</keyframe>
+				<keyframe frame="3930" interpolation="step">0.000000</keyframe>
+				<keyframe frame="5910" interpolation="step">0.400000</keyframe>
+			</block>
+		</property>
+		<property name="mixz" type="float" hidden="0" constant="0">
+			<block start="0" size="9001">
+				<keyframe frame="0" interpolation="smooth">0.000000</keyframe>
+				<keyframe frame="3840" interpolation="smooth">0.000000</keyframe>
+				<keyframe frame="3930" interpolation="smooth">1.000000</keyframe>
+				<keyframe frame="7980" interpolation="smooth">0.000000</keyframe>
+				<keyframe frame="9000" interpolation="smooth">1.000000</keyframe>
+			</block>
+		</property>
+		<property name="BHrad" type="float" hidden="0" constant="0">
+			<block start="0" size="7771">
+				<keyframe frame="0" interpolation="step">0.400000</keyframe>
+				<keyframe frame="2550" interpolation="smooth">500.000000</keyframe>
+				<keyframe frame="3180" interpolation="smooth">500.000000</keyframe>
+				<keyframe frame="3240" interpolation="smooth">15.000000</keyframe>
+				<keyframe frame="3840" interpolation="smooth">15.000000</keyframe>
+				<keyframe frame="3860" interpolation="linear">0.400000</keyframe>
+				<keyframe frame="3930" interpolation="step">0.000000</keyframe>
+				<keyframe frame="5910" interpolation="smooth">0.400000</keyframe>
+			</block>
+		</property>
+		<property name="Allalpha" type="float" hidden="0" constant="0">
+			<block start="0" size="7771">
+				<keyframe frame="0" interpolation="smooth">0.000000</keyframe>
+				<keyframe frame="150" interpolation="smooth">0.000000</keyframe>
+				<keyframe frame="450" interpolation="smooth">1.000000</keyframe>
+			</block>
+		</property>
+		<property name="Enabled" type="bool" hidden="0" constant="0">
+			<block start="0" size="7771">
+				<keyframe frame="0" interpolation="step">1</keyframe>
+			</block>
+		</property>
+	</object>
+	<object name="galaxy">
+		<property name="Enabled" type="bool" hidden="0" constant="0">
+			<block start="0" size="1">
+				<keyframe frame="0" interpolation="step">1</keyframe>
+			</block>
+		</property>
+		<property name="Alpha" type="alpha" hidden="0" constant="0">
+			<block start="0" size="3931">
+				<keyframe frame="0" interpolation="smooth">0.531874</keyframe>
+				<keyframe frame="2400" interpolation="smooth">0.531874</keyframe>
+				<keyframe frame="2454" interpolation="smooth">1.000000</keyframe>
+				<keyframe frame="2550" interpolation="smooth">1.000000</keyframe>
+				<keyframe frame="3840" interpolation="smooth">1.000000</keyframe>
+				<keyframe frame="3930" interpolation="smooth">0.000000</keyframe>
+			</block>
+		</property>
+	</object>
+	<object name="mwESOGigaPan">
+		<property name="Enabled" type="bool" hidden="0" constant="0">
+			<block start="0" size="1">
+				<keyframe frame="0" interpolation="step">1</keyframe>
+			</block>
+		</property>
+		<property name="AlphaMultiplier" type="alpha" hidden="0" constant="0">
+			<block start="0" size="3931">
+				<keyframe frame="0" interpolation="smooth">0.732289</keyframe>
+				<keyframe frame="2550" interpolation="smooth">0.732289</keyframe>
+				<keyframe frame="3930" interpolation="smooth">0.000000</keyframe>
+			</block>
+		</property>
+	</object>
+	<object name="stars">
+		<property name="Enabled" type="bool" hidden="0" constant="0">
+			<block start="0" size="2501">
+				<keyframe frame="0" interpolation="step">1</keyframe>
+			</block>
+		</property>
+		<property name="AlphaMultiplier" type="alpha" hidden="0" constant="0">
+			<block start="0" size="3931">
+				<keyframe frame="0" interpolation="smooth">1.000000</keyframe>
+				<keyframe frame="150" interpolation="smooth">1.000000</keyframe>
+				<keyframe frame="450" interpolation="smooth">0.000000</keyframe>
+				<keyframe frame="2400" interpolation="smooth">0.000000</keyframe>
+				<keyframe frame="2500" interpolation="smooth">1.000000</keyframe>
+				<keyframe frame="2550" interpolation="smooth">1.000000</keyframe>
+				<keyframe frame="3840" interpolation="smooth">1.000000</keyframe>
+				<keyframe frame="3930" interpolation="smooth">0.000000</keyframe>
+			</block>
+		</property>
+	</object>
+	<object name="HRaxes">
+		<property name="Enabled" type="bool" hidden="0" constant="0">
+			<block start="0" size="1">
+				<keyframe frame="0" interpolation="step">1</keyframe>
+			</block>
+		</property>
+		<property name="Brightness" type="float" hidden="0" constant="0">
+			<block start="0" size="7981">
+				<keyframe frame="0" interpolation="smooth">0.000000</keyframe>
+				<keyframe frame="5730" interpolation="smooth">0.000000</keyframe>
+				<keyframe frame="5880" interpolation="smooth">4.000000</keyframe>
+				<keyframe frame="7710" interpolation="smooth">4.000000</keyframe>
+				<keyframe frame="7890" interpolation="smooth">0.000000</keyframe>
+				<keyframe frame="7980" interpolation="smooth">0.000000</keyframe>
+			</block>
+		</property>
+	</object>
+	<object name="HUD">
+		<property name="Enabled" type="bool" hidden="0" constant="0">
+			<block start="0" size="151">
+				<keyframe frame="0" interpolation="step">0</keyframe>
+				<keyframe frame="150" interpolation="step">1</keyframe>
+			</block>
+		</property>
+	</object>
+	<object name="HUD_Current_Speed">
+		<property name="Enabled" type="bool" hidden="0" constant="0">
+			<block start="0" size="1">
+				<keyframe frame="0" interpolation="step">0</keyframe>
+			</block>
+		</property>
+	</object>
+	<object name="HUD_Distance_to_Target">
+		<property name="Enabled" type="bool" hidden="0" constant="0">
+			<block start="0" size="1">
+				<keyframe frame="0" interpolation="step">0</keyframe>
+			</block>
+		</property>
+	</object>
+	<object name="HUD_Local_Time">
+		<property name="Enabled" type="bool" hidden="0" constant="0">
+			<block start="0" size="1">
+				<keyframe frame="0" interpolation="step">0</keyframe>
+			</block>
+		</property>
+	</object>
+	<object name="HUD_Simulation_Date">
+		<property name="Enabled" type="bool" hidden="0" constant="0">
+			<block start="0" size="1">
+				<keyframe frame="0" interpolation="step">1</keyframe>
+			</block>
+		</property>
+		<property name="DateFormat" type="string" hidden="0" constant="0">
+			<block start="0" size="1">
+				<keyframe frame="0" interpolation="smooth">%YYYY Myr</keyframe>
+			</block>
+		</property>
+	</object>
+	<object name="HUD_Simulation_Time">
+		<property name="Enabled" type="bool" hidden="0" constant="0">
+			<block start="0" size="1">
+				<keyframe frame="0" interpolation="step">0</keyframe>
+			</block>
+		</property>
+	</object>
+	<object name="HUD_Target_Name">
+		<property name="Enabled" type="bool" hidden="0" constant="0">
+			<block start="0" size="1">
+				<keyframe frame="0" interpolation="step">0</keyframe>
+			</block>
+		</property>
+	</object>
+</clip>
